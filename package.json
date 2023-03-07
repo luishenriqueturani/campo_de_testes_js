@@ -2,6 +2,7 @@
   "name": "campo_de_testes_js",
   "version": "1.0.0",
   "description": "Local de testes de scripts js",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
